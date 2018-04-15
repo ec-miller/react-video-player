@@ -1,6 +1,6 @@
 # React Video Player
 
-This project was created in Stephen Grider's Reace and Redux course on Udemy - interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This project was created in Stephen Grider's React and Redux course on Udemy - interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 I added a few features:
 1. New searches will not refresh the video you are viewing
