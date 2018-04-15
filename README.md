@@ -2,7 +2,7 @@
 
 This project was created in Stephen Grider's Reace and Redux course on Udemy - interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-I added a couple features
+I added a few features:
 1. New searches will not refresh the video you are viewing
 2. Full screen viewing of videos enabled
 2. Fkj's & Masego's live (and improvised?) song Tadow is the default video :)
